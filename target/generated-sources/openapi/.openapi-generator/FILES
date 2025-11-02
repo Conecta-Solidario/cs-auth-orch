@@ -1,0 +1,10 @@
+src/main/java/br/edu/faculdade/cs/auth/orch/api/DefaultApi.java
+src/main/java/br/edu/faculdade/cs/auth/orch/model/Error.java
+src/main/java/br/edu/faculdade/cs/auth/orch/model/LoginRequest.java
+src/main/java/br/edu/faculdade/cs/auth/orch/model/LoginResponse.java
+src/main/java/br/edu/faculdade/cs/auth/orch/model/TipoUsuario.java
+src/main/java/br/edu/faculdade/cs/auth/orch/model/TokenValidationRequest.java
+src/main/java/br/edu/faculdade/cs/auth/orch/model/TokenValidationResponse.java
+src/main/java/br/edu/faculdade/cs/auth/orch/model/UsuarioRequest.java
+src/main/java/br/edu/faculdade/cs/auth/orch/model/UsuarioResponse.java
+src/main/java/org/openapitools/RestConfiguration.java
